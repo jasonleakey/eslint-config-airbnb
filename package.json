@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/jasonleakey/eslint-config-airbnb/issues"
   },
-  "homepage": "https://github.com/jasonleakey/eslint-config-airbnb/tree/dev/packages/jasonleakey/eslint-config-airbnb#readme",
+  "homepage": "https://github.com/jasonleakey/eslint-config-airbnb",
   "dependencies": {
     "eslint": "^5.14.1",
     "eslint-config-airbnb-base": "^13.1.0",
