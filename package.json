@@ -1,0 +1,27 @@
+{
+  "name": "@jasonleakey/eslint-config-airbnb",
+  "version": "1.0.0",
+  "description": "jasonleakey's modification to eslint-config-airbnb",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonleakey/eslint-config-airbnb.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Jason Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonleakey/eslint-config-airbnb/issues"
+  },
+  "homepage": "https://github.com/jasonleakey/eslint-config-airbnb/tree/dev/packages/jasonleakey/eslint-config-airbnb#readme",
+  "dependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
