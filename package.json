@@ -1,6 +1,6 @@
 {
   "name": "@jasonleakey/eslint-config-airbnb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jasonleakey's modification to eslint-config-airbnb",
   "main": "index.js",
   "publishConfig": {
