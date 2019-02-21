@@ -13,10 +13,6 @@ module.exports = {
       optionalDependencies: ['test/unit/index.js'],
     }],
     'indent': 'off',
-    'vue/script-indent': ['error', 2, {
-      'baseIndent': 1,
-      'switchCase': 1
-    }],
     'import/extensions': ['error', 'never'],
     'no-console': 'off',
     'import/prefer-default-export': 'off',

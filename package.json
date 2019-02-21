@@ -1,6 +1,6 @@
 {
   "name": "@jasonleakey/eslint-config-airbnb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "jasonleakey's modification to eslint-config-airbnb",
   "main": "index.js",
   "publishConfig": {
@@ -23,5 +23,8 @@
     "eslint": "^5.14.1",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.16.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-vue": "^5.2.2"
   }
 }
