@@ -23,5 +23,7 @@ module.exports = {
     'no-else-return': 'off',
     'no-restricted-syntax': ['error', 'ForInStatement', 'LabeledStatement', 'WithStatement'],
     'func-names': 'off',
+    'no-unused-vars': 'off',
+    'object-curly-newline': 'off',
   }
 }
