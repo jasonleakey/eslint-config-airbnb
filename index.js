@@ -25,5 +25,7 @@ module.exports = {
     'func-names': 'off',
     'no-unused-vars': 'off',
     'object-curly-newline': 'off',
+    'max-classes-per-file': 'off',
+    'arrow-parens': 'off',
   }
 }
